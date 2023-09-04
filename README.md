@@ -9,5 +9,5 @@
 6. Execute launch file ids_dvs.launch in the launch folder
 
 # Install detectron2
-Check the repository [https://github.com/shrutarv/detectron2.git](https://github.com/shrutarv/detectron2_eventCamera)https://github.com/shrutarv/detectron2_eventCamera to install detectron2.
+Check the repository https://github.com/shrutarv/detectron2.git to install detectron2.
 
