@@ -4,7 +4,7 @@ The human eye consists of two types of photoreceptors, rods and cones. Rods are 
 
 # Architecture
 <p align="center">
-  <img src="media/Architecture.jpg" width = "650" />  
+  <img src="Architecture.png" width = "650" />  
 </p>
 
 ## Installing the IDS camera driver.
